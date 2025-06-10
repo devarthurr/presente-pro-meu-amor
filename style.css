@@ -1,0 +1,42 @@
+header {
+text-align: center;
+font-size: 30px;
+color: white;
+}
+
+body {
+background-image: url('./imgs/Eu e momoh.png');
+background-size: cover;
+background-repeat: no-repeat;
+/* Adjust the vertical position to focus on faces. Experiment with different percentages. */
+background-position: center 30%;
+background-attachment: fixed;
+}
+
+main, html {
+margin: 0;
+padding: 0;
+height: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.container {
+text-align: center;
+color: pink;
+}
+
+.button {
+padding: 10px 20px;
+margin: 10px;
+font-size: 24px;
+border: none;
+background-color: white;
+cursor: pointer;
+border-radius: 5px;
+}
+
+.button:hover {
+background-color: blueviolet;
+}
