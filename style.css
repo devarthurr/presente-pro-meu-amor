@@ -8,7 +8,6 @@ body {
 background-image: url('./imgs/Eu e momoh.png');
 background-size: cover;
 background-repeat: no-repeat;
-/* Adjust the vertical position to focus on faces. Experiment with different percentages. */
 background-position: center 30%;
 background-attachment: fixed;
 }
